@@ -1,7 +1,8 @@
+.DS_Store
 .gradle
 .idea
 build
+run
 gradle
 gradlew
 gradlew.bat
-run
