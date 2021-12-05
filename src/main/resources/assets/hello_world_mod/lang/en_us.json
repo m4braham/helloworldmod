@@ -1,0 +1,7 @@
+{
+  "item.hello_world_mod.titanium_ingot": "Titanium Ingot",
+  "item.hello_world_mod.titanium_nugget": "Titanium Nugget",
+
+  "block.hello_world_mod.titanium_block": "Titanium Block",
+  "block.hello_world_mod.titanium_ore": "Titanium Ore"
+}
