@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "hello_world_mod:block/titanium_ore" }
+  }
+}
